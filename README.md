@@ -2,6 +2,10 @@
 
 This is a Crystal Report Management app for Business Intelligence based on the Unique Driving School Management System. It is built on the vb.net programming language.
 
+# Guidelines
+
+![Static Badge](https://img.shields.io/badge/Visual%20Studio-2010%20or%20later-green) ![Static Badge](https://img.shields.io/badge/.Net%20Framework-4.5.2-blue)
+
 # Screenshots
 
 ![1-Introduction](https://github.com/LuckyMaley/UniqueDrivingSchoolReportingSystem/assets/58641501/14bc72eb-233e-42b7-9ba8-4059cbd80812)
