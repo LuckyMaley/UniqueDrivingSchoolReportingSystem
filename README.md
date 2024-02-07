@@ -23,6 +23,13 @@ This is a Crystal Report Management app for Business Intelligence based on the U
 > (re)building the application will install the required ASP.NET packages from NuGet
 ![Screenshot (4085)](https://github.com/LuckyMaley/UniqueDrivingSchoolReportingSystem/assets/58641501/302508b0-9f80-43d2-9d7e-454cc445c11f)
 
+- Crystal Reports setup
+  > **NOTE:** You need to have crystal reports plugin installed in order to be able to use this project
+
+  - You can go to the link below or go to the SAP crystal reports site.
+  - https://www.tektutorialshub.com/crystal-reports/crystal-reports-download-for-visual-studio/
+  - https://www.tektutorialshub.com/crystal-reports/install-crystal-reports-visual-studio/
+  - https://www.youtube.com/watch?v=A1mTqRRHqw8
 
 - Database Setup
 > **NOTE:** If you want to change the connection string to a live or production-ready database just go to the [App.config](/App.config) file and change the existing one to your database. Example of connection string below:
