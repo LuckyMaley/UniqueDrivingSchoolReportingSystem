@@ -24,9 +24,9 @@ This is a Crystal Report Management app for Business Intelligence based on the U
 ![Screenshot (4085)](https://github.com/LuckyMaley/UniqueDrivingSchoolReportingSystem/assets/58641501/302508b0-9f80-43d2-9d7e-454cc445c11f)
 
 - Crystal Reports setup
-  > **NOTE:** You need to have crystal reports plugin installed in order to be able to use this project
+  > **NOTE:** You need to have Crystal Reports plugin installed in order to be able to use this project
 
-  - You can go to the link below or go to the SAP crystal reports site.
+  - You can go to the links below or the official SAP crystal reports site.
   - https://www.tektutorialshub.com/crystal-reports/crystal-reports-download-for-visual-studio/
   - https://www.tektutorialshub.com/crystal-reports/install-crystal-reports-visual-studio/
   - https://www.youtube.com/watch?v=A1mTqRRHqw8 (see video description)
