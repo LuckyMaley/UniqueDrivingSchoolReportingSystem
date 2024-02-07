@@ -29,7 +29,7 @@ This is a Crystal Report Management app for Business Intelligence based on the U
   - You can go to the link below or go to the SAP crystal reports site.
   - https://www.tektutorialshub.com/crystal-reports/crystal-reports-download-for-visual-studio/
   - https://www.tektutorialshub.com/crystal-reports/install-crystal-reports-visual-studio/
-  - https://www.youtube.com/watch?v=A1mTqRRHqw8
+  - https://www.youtube.com/watch?v=A1mTqRRHqw8 (see video description)
 
 - Database Setup
 > **NOTE:** If you want to change the connection string to a live or production-ready database just go to the [App.config](/App.config) file and change the existing one to your database. Example of connection string below:
